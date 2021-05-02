@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Weka-3-8-5/Weka-3-8-5.iml" filepath="$USER_HOME$/Downloads/Weka-3-8-5/Weka-3-8-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final313.iml" filepath="$PROJECT_DIR$/final313.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/weka-3.7.0.jar/weka-3.7.0.jar.iml" filepath="$USER_HOME$/Downloads/weka-3.7.0.jar/weka-3.7.0.jar.iml" />
+    </modules>
+  </component>
+</project>
